@@ -1,0 +1,7 @@
+LIST TAGS:
+1.Types:
+   -ordered list<ol>
+      . it will dispaly list with numbers,alphabets in ascending order
+   -unordered list<ul>
+      .it will display the list with symbols lite squares,cirlcles
+   -defnition  list
